@@ -5,6 +5,7 @@ ANNOTATIONS_PATH = os.path.join(os.path.dirname(CODE_ROOT), "preprocessing")
 
 HOME = os.environ["HOME"]
 #DATA_PATH = os.path.join(HOME, "data", "TMLGA")
+#DATA_PATH = "/root/TMLGA_practice"
 DATA_PATH = "/content/2022_nlvl_practice"
 ANET_FEATURES_PATH = DATA_PATH
 CHARADES_FEATURES_PATH = os.path.join(DATA_PATH, "i3d_charades_sta")

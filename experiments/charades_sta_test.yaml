@@ -2,7 +2,7 @@
 
 ENGINE_STAGE: "TESTER"
 TEST:
-    MODEL: "./checkpoints/charades_sta/model_charades_sta"
+    MODEL: "./checkpoints/charades_sta_train/model_epoch_49"
     
 SENTENCE:
     MIN_COUNT: 1
